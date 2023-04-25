@@ -26,6 +26,7 @@ body {
 .title-app {
   margin: 20px auto 0;
   font-size: 30px;
+  text-align: center;
 }
 
 .searchLocation {
